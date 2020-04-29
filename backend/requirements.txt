@@ -25,7 +25,7 @@ django-cors-headers==2.4.0
 django-rest-auth==0.9.3
 django-rest-knox==4.1.0
 django-smart-selects==1.5.4
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 djangorestframework-jwt==1.11.0
 drf-base64==2.0
 emoji==0.5.4
